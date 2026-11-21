@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+SR-DEF-01,Defense Security and Law Enforcement,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-DEF-02,Defense Security and Law Enforcement,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-DEF-03,Defense Security and Law Enforcement,Political instability and post-colonial governance pressures,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-DEF-04,Defense Security and Law Enforcement,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-DEF-05,Defense Security and Law Enforcement,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

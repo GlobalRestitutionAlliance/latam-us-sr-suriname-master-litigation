@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+SR-ENV-01,Environmental and Climate Harms,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-ENV-02,Environmental and Climate Harms,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-ENV-03,Environmental and Climate Harms,Political instability and post-colonial governance pressures,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-ENV-04,Environmental and Climate Harms,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-ENV-05,Environmental and Climate Harms,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

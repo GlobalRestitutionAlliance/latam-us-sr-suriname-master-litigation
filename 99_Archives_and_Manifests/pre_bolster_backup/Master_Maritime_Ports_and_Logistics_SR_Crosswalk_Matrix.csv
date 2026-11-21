@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+SR-MAR-01,Maritime Ports and Logistics,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-MAR-02,Maritime Ports and Logistics,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-MAR-03,Maritime Ports and Logistics,Political instability and post-colonial governance pressures,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-MAR-04,Maritime Ports and Logistics,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-MAR-05,Maritime Ports and Logistics,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

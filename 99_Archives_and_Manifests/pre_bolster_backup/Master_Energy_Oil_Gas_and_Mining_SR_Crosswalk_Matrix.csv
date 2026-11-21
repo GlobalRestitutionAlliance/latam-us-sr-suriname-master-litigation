@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+SR-ENE-01,Energy Oil Gas and Mining,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-ENE-02,Energy Oil Gas and Mining,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-ENE-03,Energy Oil Gas and Mining,Political instability and post-colonial governance pressures,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-ENE-04,Energy Oil Gas and Mining,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-ENE-05,Energy Oil Gas and Mining,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

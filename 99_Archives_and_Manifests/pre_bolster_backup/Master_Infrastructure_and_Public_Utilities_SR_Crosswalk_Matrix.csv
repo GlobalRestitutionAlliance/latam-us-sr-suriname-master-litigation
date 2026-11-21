@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+SR-INF-01,Infrastructure and Public Utilities,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-INF-02,Infrastructure and Public Utilities,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-INF-03,Infrastructure and Public Utilities,Political instability and post-colonial governance pressures,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-INF-04,Infrastructure and Public Utilities,Colonial plantation and indenture legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+SR-INF-05,Infrastructure and Public Utilities,Resource extraction (bauxite/gold) impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

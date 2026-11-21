@@ -1,0 +1,13 @@
+{
+  "url": "https://www.oas.org/en/iachr/reports/ia.asp",
+  "final_url": "\"https://www.oas.org/en/iachr/reports/ia.asp\"",
+  "status": 200,
+  "title": "\"Annual Reports\"",
+  "bytes": 76222,
+  "sha256": "a156f97b3ec069fd061140bdeaa5b2ea89b43c33ae2be761e88158f54e88479b",
+  "captured_at": "2026-11-21T18:46:08.313068Z",
+  "custodian": "OpenCode/browser-fallback",
+  "country": "US_SR_SURINAME",
+  "iso": "SR",
+  "provenance": "browser-rendered outerHTML; WARC-like metadata sidecar; PUBLIC_CAPTURE_UNAUTHENTICATED; not certified original"
+}

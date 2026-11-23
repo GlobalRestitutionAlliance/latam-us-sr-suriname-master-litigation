@@ -1,0 +1,11 @@
+source_id,title,url,publisher,source_type,access,notes,legal_review_status
+SRC-001,Library of Congress - Suriname,https://www.loc.gov/search/?q=suriname+united+states,Library of Congress,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-002,State Dept - Suriname,https://www.state.gov/countries-areas/suriname/,State Dept,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-003,UN Digital Library - Suriname,https://digitallibrary.un.org/search?ln=en&p=suriname,UN Digital Library,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-004,World Bank - Suriname,https://data.worldbank.org/country/suriname,World Bank,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-005,UNHCR - Suriname,https://www.unhcr.org/countries/suriname,UNHCR,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-006,HRW - Americas,https://www.hrw.org/americas,HRW,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-007,OAS - Suriname,https://www.oas.org/en/member_states/member_state.asp?sCode=SUR,OAS,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-008,CARICOM - Suriname,https://caricom.org/country_profiles/suriname/,CARICOM,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-009,NARA - Suriname,https://catalog.archives.gov/search?q=suriname,NARA,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-010,ICRC - Americas,https://www.icrc.org/en/where-we-work/americas,ICRC,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW

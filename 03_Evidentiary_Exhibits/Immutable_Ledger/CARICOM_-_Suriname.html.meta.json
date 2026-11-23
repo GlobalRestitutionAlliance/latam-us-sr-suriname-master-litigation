@@ -1,0 +1,17 @@
+{
+  "url": "https://caricom.org/country_profiles/suriname/",
+  "final_url": "https://caricom.org/country_profiles/suriname/",
+  "title": "CARICOM - Suriname",
+  "fetched_at": "2026-11-23T15:34:09.034904Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 346481,
+  "sha256": "b85458ff3c868312fe353b702d2b81c60a7535f4562cc33c17095b5e87eb5858",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
